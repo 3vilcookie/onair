@@ -3,7 +3,7 @@
  * @brief:     Push-to-talk keyboard
  * @date:      Spring 2020
  * @author:    Raphael Pour <dev@raphaelpour.de>
- * @copyright: (C) 2020 Raphael Pour licensed under the GPLv2
+ * @copyright: (C) 2020 Raphael Pour licensed under the GPLv3
  */
 #include <Keyboard.h>
 
