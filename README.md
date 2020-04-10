@@ -1,6 +1,6 @@
 # :red_circle: onair
 
-Send a hotkey of your choice to control for example Push-to-Talk. Either as long as the button is pressed or as long as the switch is enabled.
+Push-to-talk device. Even Switch-to-talk.
 
 ## Part list
 
