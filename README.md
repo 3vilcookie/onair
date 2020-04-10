@@ -2,6 +2,8 @@
 
 Push-to-talk device. Even Switch-to-talk.
 
+![OnAir impression](impression.jpg)
+
 ## Part list
 
 #|Part|Count|Identifier|Description
