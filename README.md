@@ -16,7 +16,7 @@ Push-to-talk device. Even Switch-to-talk.
 6|Switch|1|-|Switch to hold a hotkey
 7|Pushbutton|1|-|Button to do traditional _push to talk_
 
-The Arduino must support the keyboard library (`keyboard.h`). The Arduino Nano for example does not.
+The Arduino must support the keyboard library (`keyboard.h`). The Arduino Nano for example has not such support.
 
 ## Circuit
 
