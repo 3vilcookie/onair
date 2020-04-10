@@ -21,3 +21,7 @@ The Arduino must support the keyboard library (`keyboard.h`). The Arduino Nano f
 ## Circuit
 
 ![Circuit](circuit.jpg)
+
+## License
+
+Licensed under the GPLv3
