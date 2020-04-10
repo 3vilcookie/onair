@@ -22,6 +22,7 @@ The Arduino must support the keyboard library (`keyboard.h`). The Arduino Nano f
 
 ![Circuit](circuit.jpg)
 
+Each `Dx` is an arbitrary digital pin. Any _digital pin_ can be used. Don't forget to adjust the pin mapping in the source code (`/Pin mapping/`).
 ## License
 
 Licensed under the GPLv3
